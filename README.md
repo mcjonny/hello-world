@@ -1,2 +1,3 @@
 # hello-world
 Test repository for learning purposes
+So this is the bit where I write something about myself...
